@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Sol
+
+I'm studying Electrical and Computer Engineering in Seoul National University.
+
+I'm interested in everyting related to Rust. You can read my Rust journey [here][my_blog].
+
+I'm also an enthusiastic Lojbanist. My Lojbanic journey (in Korean) can be found [here](https://baehyunsol.github.io/Lojban). 
+
+[my_blog]: https://baehyunsol.github.io
 
 <!--
 **baehyunsol/baehyunsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
