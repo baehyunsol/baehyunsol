@@ -1,11 +1,14 @@
 ### Hi there 👋 I'm Sol
 
-I'm studying Electrical and Computer Engineering in Seoul National University.
+I studied Electrical and Computer Engineering in Seoul National University.
+
+I'm working for a [small AI startup] in korea.
 
 I'm interested in everyting related to Rust. You can read my Rust journey [here][my_blog].
 
 I'm also an enthusiastic Lojbanist. My Lojbanic journey (in Korean) can be found [here](https://baehyunsol.github.io/Lojban). 
 
+[small AI startup]: https://www.nexusai.kr/
 [my_blog]: https://baehyunsol.github.io
 
 <!--
